@@ -1,6 +1,7 @@
 # Anto's Photos
 *image*
 ## Introduction:
+Welcome to Anto's Photos, a website built to promote a fictional photography business
 
 Live site link:
 
