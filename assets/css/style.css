@@ -44,7 +44,7 @@ header {
 .nav-links a {
     text-decoration: none;
     color: white;
-    background-color: green;
+    background-color: grey;
     border-radius: 5px;
     padding: 1px;
 }
