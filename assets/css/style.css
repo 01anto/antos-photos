@@ -12,12 +12,13 @@ body {
 
 header {
     background-color:rgba(135,206,250, 0.6);
+    height: 3.75rem;
 }
 
 /* Main Navigation */
 
 .logo {
-    color: #0582ca;
+    color: darkblue;
     text-shadow: 2px 2px white;
     text-transform: uppercase;
     text-align: center;
@@ -45,6 +46,11 @@ header {
 }
 
 @media screen and (max-width: 319px) {
+
+    body {
+        font-size: 1rem;
+    }
+
     .nav-links {
         flex-direction: column;
 }
