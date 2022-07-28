@@ -14,6 +14,8 @@ header {
 /* Main Navigation */
 
 .logo {
+    color: #0582ca;
+    text-shadow: 2px 2px white;
     text-transform: uppercase;
     text-align: center;
 }
