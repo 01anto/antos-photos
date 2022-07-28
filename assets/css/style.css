@@ -17,5 +17,10 @@ header {
 }
 
 .nav-menu {
-    
+    display:flex;
+    justify-content: flex-end;
+}
+
+ul {
+    list-style-type: none;
 }
