@@ -10,7 +10,8 @@ Repository link:
 ## Table of contents
 ## Objectives, Goals, Purpose etc
 ## User Requirements, User Stories
-## Design Ideas, Fonts, Images,  wireframes, colour schemes,
+## Design Ideas, Fonts, Images,  wireframes colour schemes,
+[wireframe](readme-extras/wireframe.pdf)
 ## Features
   - Existing Features
   - Future Features
