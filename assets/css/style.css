@@ -21,9 +21,10 @@ header {
 .nav-links {
     display:flex;
     justify-content: space-around;
+    list-style-type: none;
+    text-transform: uppercase;
 }
 
 ul {
-    list-style-type: none;
-    text-transform: uppercase;
+    
 }
