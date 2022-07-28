@@ -8,9 +8,10 @@ body {
 }
 
 header {
-    background-color:green;
+    background-color: green;
 }
 
 .logo {
-    
+    text-transform: uppercase;
+    text-align: center;
 }
