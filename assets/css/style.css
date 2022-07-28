@@ -43,3 +43,10 @@ header {
 .active {
     border-bottom: 2px solid darkblue;
 }
+
+@media screen and (max-width: 319px) {
+    .nav-links {
+        flex-direction: column;
+}
+
+}
