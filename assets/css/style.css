@@ -48,6 +48,8 @@ header {
     border-bottom: 2px solid darkblue;
 }
 
+/* small screen sizes */
+
 @media screen and (max-width: 319px) {
 
     body {
