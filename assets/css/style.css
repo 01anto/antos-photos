@@ -35,6 +35,7 @@ header {
 .nav-links a {
     text-decoration: none;
     color: white;
+    background-color: green;
 }
 
 .nav-links a:hover {
