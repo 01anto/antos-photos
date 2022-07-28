@@ -50,11 +50,12 @@ header {
 }
 
 .nav-links a:hover {
-    color: orange;
+    border-bottom: 2px solid darkblue;
 }
 
-.active {
-    border-bottom: 2px solid darkblue;
+.nav-links .active {
+    
+    color: orange
 }
 
 /* small mobile screen sizes */
