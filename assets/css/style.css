@@ -34,7 +34,7 @@ header {
 }
 
 .nav-links li {
-    margin-right: 5px;
+    margin: 5px;
 }
 
 .nav-links a {
@@ -74,9 +74,6 @@ header {
         align-items: center;
     }
 
-    .nav-links li {
-        margin-top: 5px;
-    }
 }
 
 /* medium to large mobile screens and tablets*/
@@ -87,8 +84,4 @@ header {
         justify-content: flex-end;
     }
 
-    .nav-links li {
-        margin-right: 5px;
-    }
-    
 }
