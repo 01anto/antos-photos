@@ -48,7 +48,7 @@ header {
     border-bottom: 2px solid darkblue;
 }
 
-/* small screen sizes */
+/* small mobile screen sizes */
 
 @media screen and (max-width: 319px) {
 
@@ -68,4 +68,17 @@ header {
     .nav-links li {
         margin-top: 5px;
     }
+}
+
+/* medium to large mobile screens and tablets*/
+
+@media screen and (max-width: 768px) {
+    .logo {
+        text-align: left;
+    }
+
+    .nav-links{
+        justify-content: flex-end;
+    }
+    
 }
