@@ -7,11 +7,10 @@
 
 body {
     font-family: 'Jura', sans-serif;
-    background-color: red;
 }
 
 header {
-    background-color: green;
+    background-color:rgba(135,206,250, 0.6);
 }
 
 /* Main Navigation */
