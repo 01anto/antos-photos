@@ -44,7 +44,7 @@ header {
 .nav-links a {
     text-decoration: none;
     color: white;
-    background-color: grey;
+    background-color: rgba(43, 43, 80, 0.4);
     border-radius: 5px;
     padding: 1px;
 }
@@ -54,8 +54,8 @@ header {
 }
 
 .nav-links .active {
-    
-    color: orange
+      color: darkorange;
+      text-shadow: 1px 1px darkblue;
 }
 
 /* small mobile screen sizes */
