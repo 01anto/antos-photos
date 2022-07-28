@@ -32,6 +32,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
+    gap: 0 2rem;
     list-style-type: none;
     text-transform: uppercase;
 }
