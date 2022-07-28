@@ -36,6 +36,10 @@ header {
     color: white;
 }
 
+.nav-links a:hover {
+    color: orange;
+}
+
 .active {
     border-bottom: 2px solid darkblue;
 }
