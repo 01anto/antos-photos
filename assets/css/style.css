@@ -18,9 +18,9 @@ header {
     text-align: center;
 }
 
-.nav-menu {
+.nav-links {
     display:flex;
-    justify-content: flex-end;
+    justify-content: space-around;
 }
 
 ul {
