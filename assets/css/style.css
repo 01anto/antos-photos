@@ -64,7 +64,7 @@ header {
 #hero-image {
     Height:800px;
     width:100%;
-    background-image: url(../images/forest-walk.webp);
+    background-image: url('../images/forest-walk.webp');
 }
 
 /* small mobile screen sizes */
