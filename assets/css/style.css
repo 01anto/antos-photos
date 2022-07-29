@@ -50,6 +50,7 @@ header {
 }
 
 .nav-links a:hover {
+    font-weight: bold;
     border-bottom: 2px solid darkblue;
 }
 
