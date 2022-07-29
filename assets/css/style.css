@@ -65,6 +65,7 @@ header {
     Height:800px;
     width:100%;
     background-image: url('../images/forest-walk.webp');
+    background-repeat: no-repeat;
 }
 
 /* small mobile screen sizes */
