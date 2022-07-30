@@ -81,12 +81,16 @@ header {
     width: 100%;
     height: auto;
     margin-top: 10px;
-    padding-top: 10px;
+    padding: 10px;
     text-align: center;
     border-radius: 10px;
     
 }
 
+#book-now {
+
+    background-color: rgb(164, 36, 59);
+}
 
 /* small mobile screen sizes */
 
