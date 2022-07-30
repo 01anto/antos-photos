@@ -72,6 +72,14 @@ header {
 
 }
 
+/* Home Page*/
+
+#slogan {
+    background-color: rgba(175, 187, 242, 0.6);
+    width: 100px;
+    height: 100px;
+}
+
 /* small mobile screen sizes */
 
 @media screen and (max-width: 320px) {
