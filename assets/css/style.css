@@ -46,7 +46,6 @@ header {
 .nav-links a {
     text-decoration: none;
     color: white;
-    padding: 1px;
 }
 
 .nav-links a:hover {
