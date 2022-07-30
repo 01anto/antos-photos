@@ -90,6 +90,7 @@ header {
 #book-now {
 
     background-color: rgb(164, 36, 59);
+    margin-top: 5px;
 }
 
 #book-now > a {
