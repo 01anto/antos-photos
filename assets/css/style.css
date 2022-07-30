@@ -12,6 +12,7 @@ body {
 
 header {
     background-color:rgba(135,206,250, 0.6);
+    border-radius: 10px;
 }
 
 /* Main Navigation */
