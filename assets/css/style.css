@@ -104,7 +104,8 @@ header {
 @media screen and (max-width: 2560px) {
 
     #slogan {
-        width: 400px
+        width: 400px;
+        margin-left: 10px;
     }
 
 }
@@ -127,7 +128,8 @@ header {
   @media screen and (max-width: 448px) {
 
     #slogan {
-        width: 100%; 
+        width: 100%;
+        margin: 10px 10px 0 0; 
     }
 
 }
