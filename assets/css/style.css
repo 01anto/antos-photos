@@ -25,7 +25,7 @@ header {
     text-shadow: 2px 2px rgb(164, 36, 59);
     text-transform: uppercase;
     text-align: left;
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
 .nav-links {
@@ -115,18 +115,18 @@ header {
 
 }
 
-@media screen and (max-width: 448px) {
+  @media screen and (max-width: 448px) {
 
     #slogan {
         color: white;
         background-color: rgba(175, 187, 242, 0.4);
         width: 100%;
         height: auto;
-        margin-top: 10px;
+        margin: 5px;
         padding: 10px;
         text-align: center;
         border-radius: 10px; 
-    } 
+    }
 
 }
 
