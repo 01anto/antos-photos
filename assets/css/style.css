@@ -114,13 +114,7 @@ header {
 
 }
 
-/* medium to large mobile screens and tablets*/
-
-@media screen and (max-width: 768px) {
-
-    .nav-links{
-        justify-content: flex-end;
-    }
+@media screen and (max-width: 448px) {
 
     #slogan {
         color: white;
@@ -130,7 +124,28 @@ header {
         margin-top: 10px;
         padding: 10px;
         text-align: center;
-        border-radius: 10px;
+        border-radius: 10px; 
+    } 
+
+}
+
+/* medium to large mobile screens and tablets*/
+
+@media screen and (max-width: 768px) {
+
+    .nav-links{
+        justify-content: flex-end;
     }
+
+    /* #slogan {
+        color: white;
+        background-color: rgba(175, 187, 242, 0.4);
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+        padding: 10px;
+        text-align: center;
+        border-radius: 10px; 
+    } */
 
 }
