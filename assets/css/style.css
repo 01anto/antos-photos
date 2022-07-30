@@ -70,14 +70,14 @@ header {
 #slogan {
     color: white;
     background-color: rgba(175, 187, 242, 0.4);
-    width: 100%;
+    width: 400px;
     height: auto;
     margin-top: 10px;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
-    
 }
+
   /* Book Now Button */
 #book-now {
 
@@ -117,9 +117,20 @@ header {
 /* medium to large mobile screens and tablets*/
 
 @media screen and (max-width: 768px) {
-    
+
     .nav-links{
         justify-content: flex-end;
+    }
+
+    #slogan {
+        color: white;
+        background-color: rgba(175, 187, 242, 0.4);
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+        padding: 10px;
+        text-align: center;
+        border-radius: 10px;
     }
 
 }
