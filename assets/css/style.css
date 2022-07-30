@@ -73,7 +73,6 @@ header {
 
     color: white;
     background-color: rgba(175, 187, 242, 0.4);
-    width: 400px;
     height: auto;
     padding: 10px;
     text-align: center;
@@ -94,6 +93,15 @@ header {
     font-size: 1rem;
     color:white;
     text-decoration: none;
+}
+
+/* very large screen sizes */
+
+@media screen and (max-width: 2560px) {
+    #slogan {
+        width: 400px
+    }
+
 }
 
 /* small mobile screen sizes */
