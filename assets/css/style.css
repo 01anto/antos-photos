@@ -75,10 +75,14 @@ header {
 /* Home Page*/
 
 #slogan {
+    color: white;
     background-color: rgba(175, 187, 242, 0.6);
-    width: 100px;
-    height: 100px;
+    width: 320px;
+    height: 200px;
+    margin-top: 5px;
+    text-align: center;
 }
+
 
 /* small mobile screen sizes */
 
