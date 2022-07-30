@@ -34,6 +34,7 @@ header {
     flex-wrap: wrap;
     justify-content: flex-end;
     gap: 0 1rem;
+    margin-right: 1rem;
     list-style-type: none;
     text-transform: uppercase;
     
@@ -98,7 +99,7 @@ header {
 /* small mobile screen sizes */
 
 @media screen and (max-width: 320px) {
-    
+
     .logo {
         text-align: center;
     }
