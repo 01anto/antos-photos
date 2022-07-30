@@ -9,11 +9,13 @@
 body {
     font-family: 'Jura', sans-serif;
     background-color: black;
+    font-size: 1rem;
 }
 
 header {
     background-color:rgba(8, 72, 135, 0.6);
     border-radius: 10px;
+    Height:auto;
 }
 
 /* Main Navigation */
@@ -96,15 +98,7 @@ header {
 /* small mobile screen sizes */
 
 @media screen and (max-width: 320px) {
-
-    body {
-        font-size: 1rem;
-    }
-
-    header {
-        height: auto;
-    }
-
+    
     .logo {
         text-align: center;
     }
