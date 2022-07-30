@@ -19,14 +19,14 @@ header {
 /* Main Navigation */
 
 .logo {
-    color: darkblue;
     text-shadow: 2px 2px white;
     text-transform: uppercase;
     text-align: left;
     margin-left: 5px;
 }
 
-.logo a {
+.logo > a {
+    color: rgb(164, 36, 59);
     text-decoration: none;
 }
 
