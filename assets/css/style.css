@@ -24,7 +24,6 @@ header {
     text-shadow: 2px 2px rgb(164, 36, 59);
     text-transform: uppercase;
     text-align: left;
-    margin-left: 10px;
 }
 
 .nav-links {
@@ -35,7 +34,7 @@ header {
     gap: 0 1rem;
     list-style-type: none;
     text-transform: uppercase;
-    margin-right: 1rem;
+    
 }
 
 .nav-links a {
@@ -73,10 +72,11 @@ header {
     background-color: rgba(175, 187, 242, 0.4);
     width: 400px;
     height: auto;
-    margin: 10px;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
   /* Book Now Button */
@@ -124,7 +124,6 @@ header {
         background-color: rgba(175, 187, 242, 0.4);
         width: 100%;
         height: auto;
-        margin: 5px;
         padding: 10px;
         text-align: center;
         border-radius: 10px; 
@@ -135,18 +134,5 @@ header {
 /* medium to large mobile screens and tablets*/
 
 @media screen and (max-width: 768px) {
-
- 
-
-    /* #slogan {
-        color: white;
-        background-color: rgba(175, 187, 242, 0.4);
-        width: 100%;
-        height: auto;
-        margin-top: 10px;
-        padding: 10px;
-        text-align: center;
-        border-radius: 10px; 
-    } */
 
 }
