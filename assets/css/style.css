@@ -36,6 +36,7 @@ header {
     gap: 0 1rem;
     list-style-type: none;
     text-transform: uppercase;
+    margin-right: 1rem;
 }
 
 .nav-links li {
