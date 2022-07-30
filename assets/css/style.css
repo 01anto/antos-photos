@@ -20,6 +20,10 @@ header {
 
 /* Main Navigation */
 
+.logo {
+    margin-left:10px;
+}
+
 .logo > a {
     color: white;
     text-decoration: none;
@@ -98,6 +102,7 @@ header {
 /* very large screen sizes */
 
 @media screen and (max-width: 2560px) {
+
     #slogan {
         width: 400px
     }
