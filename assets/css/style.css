@@ -55,8 +55,8 @@ header {
 
 .nav-links .active {
       color: rgba(245, 138, 7);
+      font-weight: bold;
       border-bottom: 2px solid white;
-      font-weight: 700;
 }
 
 /* Hero Image */
