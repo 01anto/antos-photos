@@ -124,6 +124,12 @@ header {
         margin-top: 10px;
     }
 
+img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
 
 
 /* very large screen sizes */
@@ -145,6 +151,11 @@ header {
     }
 
     #gallery {
+        width: 400px;
+        margin-left: 10px;
+    }
+
+    img{
         width: 400px;
         margin-left: 10px;
     }
@@ -189,6 +200,11 @@ header {
     /* Gallery */
 
     #gallery {
+        width: 100%;
+        margin: 10px 10px 0 0;
+    }
+
+    img{
         width: 100%;
         margin: 10px 10px 0 0;
     }
