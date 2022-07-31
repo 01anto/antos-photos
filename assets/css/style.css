@@ -131,7 +131,18 @@ img {
 
 }
 
+/* Contact Us */
 
+#contact-us {
+
+    color: white;
+    background-color: rgba(175, 187, 242, 0.4);
+    height: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
 
 /* very large screen sizes */
 
