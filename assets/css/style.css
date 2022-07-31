@@ -126,8 +126,7 @@ header {
 
 img {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
+
 }
 
 
@@ -156,7 +155,7 @@ img {
     }
 
     img{
-        width: 400px;
+        width: auto;
         margin-left: 10px;
     }
 
