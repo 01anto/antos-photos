@@ -125,6 +125,13 @@ header {
         margin-left: 10px;
     }
 
+    /* About */
+
+    #about {
+        width: 400px;
+        margin-left: 10px;
+    }
+
 }
 
 /* small mobile screen sizes */
@@ -151,6 +158,13 @@ header {
     #slogan {
         width: 100%;
         margin: 10px 10px 0 0; 
+    }
+
+    /* About */
+
+    #about {
+        width: 100%;
+        margin: 10px 10px 0 0;
     }
 
 }
