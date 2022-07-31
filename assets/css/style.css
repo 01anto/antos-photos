@@ -51,13 +51,15 @@ header {
 
 .nav-links a:hover {
     border-bottom: 2px solid white;
+    color: rgba(245, 138, 7);
+    font-weight: bold;
 }
 
-.nav-links .active {
+/*.nav-links .active {
       color: rgba(245, 138, 7);
       font-weight: bold;
       border-bottom: 2px solid white;
-}
+}*/
 
 /* Hero Image */
 
