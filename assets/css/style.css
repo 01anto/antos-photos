@@ -84,6 +84,20 @@ header {
     margin-top: 10px;
 }
 
+/* About Page */
+
+#about {
+
+    color: white;
+    background-color: rgba(175, 187, 242, 0.4);
+    width: 400px;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
   /* Book Now Button */
 
 #book-now {
