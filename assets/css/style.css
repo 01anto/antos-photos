@@ -103,6 +103,8 @@ header {
 
 @media screen and (max-width: 2560px) {
 
+    /* Home */
+
     #slogan {
         width: 400px;
         margin-left: 10px;
@@ -113,6 +115,8 @@ header {
 /* small mobile screen sizes */
 
 @media screen and (max-width: 320px) {
+
+    /* home*/
 
     .logo {
         text-align: center;
@@ -126,6 +130,8 @@ header {
 }
 
   @media screen and (max-width: 448px) {
+
+    /* Home */
 
     #slogan {
         width: 100%;
