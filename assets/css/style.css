@@ -51,8 +51,11 @@ header, footer {
     color: white;
 }
 
-.nav-links a:hover, #footer-links a:hover {
+.nav-links a:hover {
     border-bottom: 2px solid white;
+}
+
+.nav-links a:hover, #footer-links a:hover {
     color: rgba(245, 138, 7);
     font-weight: bold;
 }
