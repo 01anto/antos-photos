@@ -20,6 +20,7 @@ header, footer {
 /* Navigation */
 
 .logo {
+    font-size: 2rem;
     text-shadow: 2px 2px rgb(164, 36, 59);
     text-transform: uppercase;
     text-align: left;
