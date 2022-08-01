@@ -86,22 +86,23 @@
         </h2>
           <form action="" method="get">
 
-            <label for="first-name">First Name:</label>
-            <input id="first-name"type="text" placeholder="Enter your first name" required>
+            <div>
+              <label for="first-name">First Name:</label>
+              <input id="first-name"type="text" placeholder="Enter your first name" required>
+            </div>
 
-            <br>
+            <div>
+              <label for="surname">Surname:</label>
+              <input id="surname" type="text" placeholder="Enter your surname" required>
+            </div>
 
-            <label for="surname">Surname:</label>
-            <input id="surname" type="text" placeholder="Enter your surname" required>
+            <div>
+              <label for="email">Email:</label>
+              <input id="email" type="email" placeholder="Enter an email address" required>
+           </div>
 
-            <br>
-
-            <label for="email">Email:</label>
-            <input id="email" type="email" placeholder="Enter an email address" required>
-
-            <br>
-
-            <label for="occasion">Occasion Type:</label>
+           <div>
+            <label for="occasion">Occasion:</label>
               <select name="occasion" id="ocassion" required>
                 <option value="Wedding">Wedding</option>
                 <option value="Christening/Communion/Confirmation">Christening/Communion/Confirmation</option>
@@ -111,16 +112,15 @@
                 <option value="Wildlife">Wildlife</option>
                 <option value="Other">Other Requests</option>
               </select>
+              </div>
 
-            <br>
-
+            <div>
             <label for="date">Date:</label>
             <input type="date">
-            
-            <br>
-
+            </div>
+            <div>
             <textarea cols="30" rows="10" placeholder="Enter a message here"></textarea>
-
+            </div>
             <input type="submit" value="Submit">
 
             <input type="reset" value="Reset">
