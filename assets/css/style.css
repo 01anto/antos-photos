@@ -163,6 +163,8 @@ img {
         margin: 10px 10px 0 0; 
 }
 
+  }
+
 /* medium to large mobile screens and tablets*/
 
 @media screen and (max-width: 768px) {
