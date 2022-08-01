@@ -48,6 +48,10 @@ ul {
     justify-content: center;
 }
 
+#footer-links a {
+    font-size: 2rem; 
+}
+
 .nav-links a:hover {
     border-bottom: 2px solid white;
 }
