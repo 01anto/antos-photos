@@ -39,6 +39,7 @@ ul {
     justify-content: flex-end;
     gap: 0 1rem;
     margin-right: 1rem;
+    margin-left: 1rem;
     list-style-type: none;
     text-transform: uppercase;
     
