@@ -34,8 +34,8 @@ header, footer {
     text-align: left;
 }
 
-.nav-links {
-    font-size: 140%;
+.nav-links, #footer-links {
+    font-size: 1.5rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
@@ -47,12 +47,7 @@ header, footer {
 }
 
 #footer-links {
-    font-size: 2rem;
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center;
-    gap: 0 1rem;
-    list-style-type: none;
 }
 
 .nav-links a, #footer-links a {
