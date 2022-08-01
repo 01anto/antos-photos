@@ -31,7 +31,6 @@ header, footer {
 }
 
 .nav-links, #footer-links {
-    font-size: 1.5rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
@@ -47,6 +46,7 @@ header, footer {
 }
 
 a {
+    font-size: 1.5rem;
     text-decoration: none;
     color: white;
 }
@@ -92,14 +92,6 @@ a {
     background-color: rgb(164, 36, 59);
     margin-top: 5px;
 }
-
-#book-now > a {
-
-    font-size: 1rem;
-    color:white;
-    text-decoration: none;
-}
-
 
 /* About Page */
 
