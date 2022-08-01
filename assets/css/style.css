@@ -26,7 +26,7 @@ header, footer {
     margin-left:10px;
 }
 
-.nav-links, #footer-links {
+ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
