@@ -34,7 +34,7 @@ header, footer {
     text-align: left;
 }
 
-.nav-links {
+.nav-links, #footer-links {
     font-size: 140%;
     display: flex;
     flex-wrap: wrap;
@@ -46,12 +46,12 @@ header, footer {
     
 }
 
-.nav-links a {
+.nav-links a, #footer-links a {
     text-decoration: none;
     color: white;
 }
 
-.nav-links a:hover {
+.nav-links a:hover, #footer-links a:hover {
     border-bottom: 2px solid white;
     color: rgba(245, 138, 7);
     font-weight: bold;
