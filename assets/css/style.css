@@ -89,18 +89,6 @@ ul {
     margin-top: 5px;
 }
 
-/* About Page */
-
-
-/* Gallery Page */
-
-img {
-    display: flex;
-
-}
-
-/* Contact Us */
-
 /* very large screen sizes */
 
 @media screen and (max-width: 2560px) {
