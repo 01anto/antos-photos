@@ -34,7 +34,7 @@ header, footer {
     text-align: left;
 }
 
-.nav-links, #footer-links {
+.nav-links {
     font-size: 140%;
     display: flex;
     flex-wrap: wrap;
@@ -44,6 +44,15 @@ header, footer {
     list-style-type: none;
     text-transform: uppercase;
     
+}
+
+#footer-links {
+    font-size: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0 1rem;
+    list-style-type: none;
 }
 
 .nav-links a, #footer-links a {
