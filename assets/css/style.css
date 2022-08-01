@@ -71,7 +71,7 @@ ul {
 
 /* Page divs */
 
-#slogan, #about, #gallery, #contact-us {
+#home, #about, #gallery, #contact-us {
 
     color: white;
     background-color: rgba(175, 187, 242, 0.4);
@@ -96,7 +96,7 @@ ul {
 
     /* Home */
 
-    #slogan, #about, #gallery, #contact-us {
+    #home, #about, #gallery, #contact-us {
         width: 400px;
         margin-left: 10px;
     }
@@ -130,7 +130,7 @@ ul {
 
     /* Home */
 
-    #slogan, #about, #gallery, #contact-us, img{
+    #home, #about, #gallery, #contact-us, img{
         width: 100%;
         margin: 10px 10px 0 0; 
 }
