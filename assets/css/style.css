@@ -26,6 +26,12 @@ header, footer {
     margin-left:10px;
 }
 
+a {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: white;
+}
+
 ul {
     display: flex;
     flex-wrap: wrap;
@@ -39,12 +45,6 @@ ul {
 
 #footer-links {
     justify-content: center;
-}
-
-a {
-    font-size: 1.5rem;
-    text-decoration: none;
-    color: white;
 }
 
 .nav-links a:hover {
