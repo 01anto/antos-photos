@@ -95,30 +95,13 @@ ul {
 
     /* Home */
 
-    #slogan {
-        width: 400px;
-        margin-left: 10px;
-    }
-
-    /* About */
-
-    #about {
-        width: 400px;
-        margin-left: 10px;
-    }
-
-    #gallery {
+    #slogan, #about, #gallery, #contact-us {
         width: 400px;
         margin-left: 10px;
     }
 
     img{
         width: auto;
-        margin-left: 10px;
-    }
-
-    #contact-us {
-        width: 400px;
         margin-left: 10px;
     }
 }
