@@ -158,37 +158,9 @@ img {
 
     /* Home */
 
-    #slogan {
+    #slogan, #about, #gallery, #contact-us, img{
         width: 100%;
         margin: 10px 10px 0 0; 
-    }
-
-    /* About */
-
-    #about {
-        width: 100%;
-        margin: 10px 10px 0 0;
-    }
-
-    /* Gallery */
-
-    #gallery {
-        width: 100%;
-        margin: 10px 10px 0 0;
-    }
-
-    img{
-        width: 100%;
-        margin: 10px 10px 0 0;
-    }
-
-    /* Contact Us */
-
-    #contact-us {
-        width: 100%;
-        margin: 10px 10px 0 0;
-    }
-
 }
 
 /* medium to large mobile screens and tablets*/
