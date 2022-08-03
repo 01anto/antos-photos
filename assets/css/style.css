@@ -95,6 +95,13 @@ ul {
     margin-top: 5px;
 }
 
+form {
+    background-color: rgba(8, 72, 135, 0.6);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+}
+
 /* very large screen sizes */
 
 @media screen and (max-width: 2560px) {
