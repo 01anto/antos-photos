@@ -116,10 +116,7 @@ form {
     background-color: rgba(245, 138, 7);;
 }
 
-/* Gallery */
-img {
-    width:auto;
-}
+/* gallery */
 
 @media screen and (max-width: 491px) {
     .logo {
