@@ -80,7 +80,6 @@ ul {
 
     color: white;
     background-color: rgba(175, 187, 242, 0.4);
-    height: auto;
     padding: 0.625rem;
     text-align: center;
     border-radius: 0.625rem;
@@ -135,7 +134,7 @@ img {
 
 @media screen and (min-width: 435px) {
     #home, #about, #gallery, #contact-us {
-        width:400px;
+        width: 400px;
     }
 
     .logo {
@@ -149,5 +148,10 @@ img {
 }
 
 @media screen and (min-width: 1024px) {
+
+    #home, #about, #gallery, #contact-us {
+        
+        
+    }
     
 }
