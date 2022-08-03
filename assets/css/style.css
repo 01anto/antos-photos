@@ -118,6 +118,10 @@ form {
 
 /* gallery */
 
+img {
+    width: 100%;
+}
+
 @media screen and (max-width: 491px) {
     .logo {
         text-align: center;
