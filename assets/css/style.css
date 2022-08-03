@@ -13,7 +13,7 @@ body {
 
 header, footer {
     background-color:rgba(8, 72, 135, 0.6);
-    border-radius: 10px;
+    border-radius: 0.625rem;
     Height:auto;
 }
 
@@ -24,7 +24,7 @@ header, footer {
     text-shadow: 2px 2px rgb(164, 36, 59);
     text-transform: uppercase;
     text-align: left;
-    margin-left:10px;
+    margin-left: 0.625rem;
 }
 
 a {
@@ -81,10 +81,10 @@ ul {
     color: white;
     background-color: rgba(175, 187, 242, 0.4);
     height: auto;
-    padding: 10px;
+    padding: 0.625rem;
     text-align: center;
-    border-radius: 10px;
-    margin: 10px;
+    border-radius: 0.625rem;
+    margin: 0.625rem;
 }
 
   /* Book Now Button */
@@ -97,8 +97,8 @@ ul {
 
 form {
     background-color: rgba(8, 72, 135, 0.6);
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 0.625rem;
+    padding: 0.625rem;
     text-align: left;
 }
 
