@@ -102,6 +102,10 @@ form {
     text-align: left;
 }
 
+.text-input {
+    width: 100%;
+}
+
 /* very large screen sizes */
 
 @media screen and (max-width: 2560px) {
