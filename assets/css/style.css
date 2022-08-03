@@ -121,6 +121,8 @@ img {
     width: 100%;
 }
 
+/* media queries*/
+
 @media screen and (min-width: 50px) {
     .logo {
         text-align: center;
