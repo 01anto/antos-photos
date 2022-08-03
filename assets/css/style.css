@@ -106,6 +106,12 @@ form {
     width: 100%;
 }
 
+.submit {
+    font-size: 1.5rem;
+    color: white;
+    background-color: rgb(164, 36, 59);
+}
+
 /* very large screen sizes */
 
 @media screen and (max-width: 2560px) {
