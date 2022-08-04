@@ -119,6 +119,7 @@ form {
 
 img {
     width: 100%;
+    border: 2px solid white;
 }
 
 /* media queries*/
