@@ -158,4 +158,10 @@ img {
     }
 }
 
+@media screen and (min-width: 750px) {
+    img {
+        width: 30%;
+    }
+}
+
 
