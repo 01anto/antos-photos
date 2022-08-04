@@ -17,6 +17,10 @@ header, footer {
     Height:auto;
 }
 
+.container {
+    max-width: 1140px;
+}
+
 /* Navigation */
 
 .logo {
