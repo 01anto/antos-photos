@@ -54,7 +54,6 @@ ul {
     margin-left: 1rem;
     list-style-type: none;
     text-transform: uppercase;
-    
 }
 
 #footer-links {
@@ -87,7 +86,6 @@ ul {
      background-position: center center;
      background-size: cover;
      background-attachment:fixed;
-
 }
 
 /* Page divs */
@@ -107,14 +105,14 @@ ul {
     color: white;
     text-align: center;
     margin-top: 0.313rem;
-    background-color: rgb(164, 36, 59);
-    
+    background-color: rgb(164, 36, 59);   
 }
 
 #book-now:hover {
-    background-color: rgba(245, 138, 7);
-    
+    background-color: rgba(245, 138, 7);  
 }
+
+/* Contact Us */
 
 form {
     background-color: rgba(8, 72, 135, 0.6);
