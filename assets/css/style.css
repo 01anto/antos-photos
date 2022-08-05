@@ -83,7 +83,8 @@ ul {
     color: white;
     text-align: center;
     margin-top: 0.313rem;
-    background-color: rgb(164, 36, 59);   
+    background-color: rgb(164, 36, 59);
+    border: 0.13rem solid black;   
 }
 
 #book-now:hover {
