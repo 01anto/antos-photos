@@ -17,6 +17,11 @@ header, footer {
     Height:auto;
 }
 
+p {
+    color: white;
+    font-size: 1.3rem;
+} 
+
 .container {
     max-width: 1140px;
     width: 100%;
@@ -97,11 +102,6 @@ ul {
 }
 
   /* Book Now Button */
-
-p {
-    color: white;
-    font-size: 1.3rem;
-} 
 
 #book-now {
     color: white;
