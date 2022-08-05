@@ -77,6 +77,10 @@ ul {
     text-transform: uppercase;
 }
 
+.nav-links li {
+    padding: 0.13rem;
+}
+
   /* Book Now Button */
 
   #book-now {
