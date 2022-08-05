@@ -98,13 +98,16 @@ ul {
 
   /* Book Now Button */
 
-p {
+/* p {
     color: white;
     text-align: center;
     margin-top: 0.313rem;
-}
+} */
 
 #book-now {
+    color: white;
+    text-align: center;
+    margin-top: 0.313rem;
     background-color: rgb(164, 36, 59);
     
 }
