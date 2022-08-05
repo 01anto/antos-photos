@@ -29,7 +29,28 @@ p {
     margin-left: auto;
 }
 
-/* Navigation */
+/* Hero Image */
+
+#hero-image {
+    background-image: url('../images/forest-walk.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+/* Page divs */
+
+#home, #about, #gallery, #contact-us {
+    color: white;
+    background-color: rgba(175, 187, 242, 0.4);
+    padding: 0.625rem;
+    text-align: center;
+    border-radius: 0.625rem;
+    margin: 0.625rem;
+}
+
+/* Main Navigation */
 
 .logo {
     font-size: 2rem;
@@ -56,6 +77,21 @@ ul {
     text-transform: uppercase;
 }
 
+  /* Book Now Button */
+
+  #book-now {
+    color: white;
+    text-align: center;
+    margin-top: 0.313rem;
+    background-color: rgb(164, 36, 59);   
+}
+
+#book-now:hover {
+    background-color: rgba(245, 138, 7);  
+}
+
+/* Social links navigation */
+
 #footer-links {
     justify-content: center;
 }
@@ -76,40 +112,6 @@ ul {
 .nav-links a:hover, #footer-links a:hover {
     color: rgba(245, 138, 7);
     font-weight: bold;
-}
-
-/* Hero Image */
-
-#hero-image {
-     background-image: url('../images/forest-walk.jpg');
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-size: cover;
-     background-attachment:fixed;
-}
-
-/* Page divs */
-
-#home, #about, #gallery, #contact-us {
-    color: white;
-    background-color: rgba(175, 187, 242, 0.4);
-    padding: 0.625rem;
-    text-align: center;
-    border-radius: 0.625rem;
-    margin: 0.625rem;
-}
-
-  /* Book Now Button */
-
-#book-now {
-    color: white;
-    text-align: center;
-    margin-top: 0.313rem;
-    background-color: rgb(164, 36, 59);   
-}
-
-#book-now:hover {
-    background-color: rgba(245, 138, 7);  
 }
 
 /* Contact Us */
