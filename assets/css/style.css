@@ -92,6 +92,10 @@ ul {
 
 /* Social links navigation */
 
+footer > p {
+    text-align: center;
+}
+
 #footer-links {
     justify-content: center;
 }
