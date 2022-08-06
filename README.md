@@ -3,9 +3,9 @@
 ## Introduction:
 Welcome to Anto's Photos, a website built to promote a fictional photography business
 
-Live site link:
+Live site link: https://01anto.github.io/antos-photos/
 
-Repository link:
+Repository link: https://github.com/01anto/antos-photos
 
 ## Table of contents
 ## Objectives, Goals, Purpose etc
