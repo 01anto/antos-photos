@@ -42,6 +42,12 @@ Repository link: https://github.com/01anto/antos-photos
      - N/A
 
 ## Deployment
+ - The website was deployed using GitHub pages:
+    - Go to the settings tab in the GitHub repository.
+    - Using the menu on the left click on the pages tab.
+    - In the Branch section use the drop-down menu and select 'main'.
+    - After a few minutes the page provided a link to the live website.
+   
 ## Credits
     - Content
     - Media
