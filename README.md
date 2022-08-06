@@ -20,7 +20,8 @@ Repository link: https://github.com/01anto/antos-photos
     - *Note: On smaller screens the Logo will be located and centered at the top of the screen and the other links will display in a column below the logo.
   - Home Section:
     - The Home section contains the Sales Pitch. It quickly summarises for the user what the website is about and what services are provided. For customers in a hurry, a book now button is conveniently provided that will bring them straight to the contact us section, bypassing the about and gallery sections.
-  - Future Features
+  - About Section:
+    - The About section builds on what was said in the home section. It provides the user with an insight to the competency and character of the people that they are thinking of hiring. It emphasises to the user that these are people that know what they are doing and will do an amazing job.
 ## Testing
   - validator testing
     - HTML, CSS
