@@ -13,7 +13,11 @@ Repository link: https://github.com/01anto/antos-photos
 ## Design Ideas, Fonts, Images,  wireframes colour schemes,
 [wireframe](readme-extras/wireframe.pdf)
 ## Features
-  - Existing Features
+  - Navigation:
+    - The navigation menu is located at the top of the page.
+    - The Anto's Photos logo on the top left refreshes the website when clicked.
+    - The other links are located to the top right (HOME, ABOUT, GALLERY and CONTACT US) and when clicked bring the user to the relevant page section.
+    - *Note: On smaller screens the Logo will be located and centered at the top of the screen and the other links will display in a column also centered.
   - Future Features
 ## Testing
   - validator testing
