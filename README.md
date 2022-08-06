@@ -29,9 +29,10 @@ Repository link: https://github.com/01anto/antos-photos
   - Social links/Footer:
     - Three social links to Facebook, Youtube and Instagram are provided in the website footer. The footer also contains Copyright information.
 ## Testing
-  - validator testing
-    - HTML
-    - CSS
+  - This website conforms to the following:
+    - W3C HTML Validator - Passed
+    - W3C CSS Jigsaw Validator - Passed
+    - Lighthouse Results:
 ## Bugs
     - Fixed Bugs
     - Unfixed Bugs
