@@ -26,9 +26,12 @@ Repository link: https://github.com/01anto/antos-photos
     - The Gallery section presents three images to the user. These images give the user an idea of the photographers style and the type of photographs that they can aspire to have.
   - Contact Us:
     - The Contact Us section contains a form to allow the user to get in contact with the company.
+  - Social links:
+    - Three social links to Facebook, Youtube and Instagram are provided in the website footer. The footer also contains Copyright information.
 ## Testing
   - validator testing
-    - HTML, CSS
+    - HTML
+    - CSS
 ## Bugs
     - Fixed Bugs
     - Unfixed Bugs
