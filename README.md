@@ -1,5 +1,5 @@
 # Anto's Photos
-*image*
+![Antos Photos techsini mockup](readme-extras/techsini-antosphotos-mockup.jpg)
 ## Introduction:
 Welcome to Anto's Photos, a website built to promote a fictional photography business
 
