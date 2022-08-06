@@ -49,9 +49,12 @@ Repository link: https://github.com/01anto/antos-photos
     - After a few minutes the page provided a link to the live website.
    
 ## Credits
-    - Content
-    - Media
-    - Acknowledgements
+- Content
+    - The font type used in the website was taken from google fonts.
+    - The Icons for the logo and social links were taken from Font Awesome.
+- Media
+    - All images used in this website are owned by the author.
+- Acknowledgements
 
 
 
