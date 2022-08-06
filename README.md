@@ -34,8 +34,13 @@ Repository link: https://github.com/01anto/antos-photos
     - W3C CSS Jigsaw Validator - Passed
     - Lighthouse Results:
 ## Bugs
-    - Fixed Bugs
-    - Unfixed Bugs
+  - Fixed Bugs:
+     - Upon running the w3c html validator it highlighted some errors due to spacing typos and stray closing tags. Once removed and retested again the code passed.
+     - Upon running lighthouse it highlighted that my background image was affecting my results. The image was resized and this greatly increased the overall result.
+     - Upon running lighthouse it highlighted that my navigation tap targets were not sufficiently spaced for small screens. I adjusted the padding and this greatly increased the overall result.
+  - Unfixed Bugs:
+     - N/A
+
 ## Deployment
 ## Credits
     - Content
