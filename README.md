@@ -13,7 +13,7 @@ Repository link: https://github.com/01anto/antos-photos
 ## Design Ideas, Fonts, Images,  wireframes colour schemes,
 [wireframe](readme-extras/wireframe.pdf)
 ## Features
-  - Navigation:
+  - Navigation/Header:
     - The navigation menu is located at the top of the page inside the header.
     - The Anto's Photos logo on the top left refreshes the website when clicked.
     - The other links are located to the top right (HOME, ABOUT, GALLERY and CONTACT US) and when clicked bring the user to the relevant page section.
@@ -26,7 +26,7 @@ Repository link: https://github.com/01anto/antos-photos
     - The Gallery section presents three images to the user. These images give the user an idea of the photographers style and the type of photographs that they can aspire to have.
   - Contact Us:
     - The Contact Us section contains a form to allow the user to get in contact with the company.
-  - Social links:
+  - Social links/Footer:
     - Three social links to Facebook, Youtube and Instagram are provided in the website footer. The footer also contains Copyright information.
 ## Testing
   - validator testing
