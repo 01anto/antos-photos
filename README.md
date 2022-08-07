@@ -21,7 +21,7 @@ Repository link: https://github.com/01anto/antos-photos
     - [wireframe](readme-extras/wireframe.pdf)
 
   - Color Scheme
-    - 
+    - [Color Scheme](readme-extras/coolors-pp1.pdf)
 
   - Fonts
     - 
