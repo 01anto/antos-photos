@@ -41,10 +41,13 @@ Repository link: https://github.com/01anto/antos-photos
     - [Color Scheme](readme-extras/coolors-pp1.pdf)
 
   - Fonts
-    - 
+    - Jura Font
 
   - Images
-    -
+    - ![](assets/images/forest-walk.jpg)
+    - ![](assets/images/cat-chilling.jpg)
+    - ![](assets/images/horses-posing.jpg)
+    - ![](assets/images/lake-sunset-small.jpg)
 
 ## Features
 
