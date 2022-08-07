@@ -106,8 +106,10 @@
 
   ## SOCIAL LINKS/FOOTER
   ![](readme-extras/footer.jpg)
+  ![](readme-extras/social-hover.jpg)
    - Three social links to Facebook, Youtube and Instagram are provided in the website footer.
      The footer also contains Copyright information.
+   - The color of the social links change to orange when the mouse hovers over them.
 
 # Testing
 
