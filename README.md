@@ -39,6 +39,7 @@ Repository link: https://github.com/01anto/antos-photos
 
   - Wireframe
     - [wireframe](readme-extras/wireframe.pdf)
+    - *Note the google map was ommitted from the final product as I believe it didnt add value and may prevent users from getting in contact due to geographical location etc.
 
   - Color Scheme
     - [Color Scheme](readme-extras/coolors-pp1.pdf)
