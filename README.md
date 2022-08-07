@@ -114,13 +114,38 @@ Repository link: https://github.com/01anto/antos-photos
     - A customised thank you page for when a user submits the form.
     - A customised 404 page that allows the user to navigate back to website.
     - A shop style page to allow the user to purchase photos/prints or even upload their own photographs to be edited and customised by the company.
+
+## Languages Used:
+
+- Languages used for this website:
+
+    - HTML
+    - CSS
+
+## Frameworks/Libraries used:
+
+- Frameworks/Libraries used for this website:
+
+    - [Google Fonts](https://developers.google.com/fonts/)
+      - The font type used in the website was taken from google fonts.
+
+    - [Font Awesome](https://fontawesome.com/)
+      - The Icons for the logo and social links were taken from Font Awesome.
+    
+    - [Techsini](https://techsini.com/multi-mockup/index.php)
+      - The mockup image for the readme was created using Techsini.
+
+    - [Coolors](https://coolors.co/)
+      - The colours I decided to use in the website were chosen from Coolors.
+    
+    - [TOC Generator](http://ecotrust-canada.github.io/markdown-toc/)
+      - The Readme table of contents was created using the TOC Generator.
    
-## Credits
+## CreditS
 
 - Contents
 
-    - The font type used in the website was taken from google fonts.
-    - The Icons for the logo and social links were taken from Font Awesome.
+    - 
     - The form information is being sent to Code Institutes form dump.
 
 - Media
