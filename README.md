@@ -99,8 +99,10 @@
 
   ## CONTACT US
   ![](readme-extras/contact.jpg)
+  ![](readme-extras/contact-hover.jpg)
    - The Contact Us section contains a form to allow the user to get in contact with the 
      company.
+   - The background in the submit changes to an orange color when the mouse hovers over it.
 
   ## SOCIAL LINKS/FOOTER
   ![](readme-extras/footer.jpg)
