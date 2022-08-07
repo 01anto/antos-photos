@@ -1,6 +1,6 @@
 # Anto's Photos
 
-## Introduction:
+## Introduction
 Welcome to Anto's Photos, A responsive, mobile first website built to promote a fictional photography business.
 It is targeted at people looking to hire a photographer.
 It will be useful to people looking to hire a photographer quickly and easily.
@@ -11,7 +11,20 @@ Repository link: https://github.com/01anto/antos-photos
 
 ![Antos Photos techsini mockup](readme-extras/techsini-antosphotos-mockup.jpg)
 
-## Owner/User Requirements
+## Table of contents
+  * [Introduction](#introduction)
+  * [Owner and User Requirements](#owner-and-user-requirements)
+  * [Design](#design)
+  * [Features](#features)
+  * [Testing](#testing)
+  * [Bugs](#bugs)
+  * [Deployment](#deployment)
+  * [Future Features](#future-features)
+  * [Languages Used](#languages-used)
+  * [Frameworks and Libraries used](#frameworks-and-libraries-used)
+  * [Credits](#credits)
+
+## Owner and User Requirements
 
   - Owner Stories
 
@@ -46,8 +59,8 @@ Repository link: https://github.com/01anto/antos-photos
   - Images
     - ![](assets/images/forest-walk.jpg)
     - ![](assets/images/cat-chilling.jpg)
-    - ![](assets/images/horses-posing.jpg)
-    - ![](assets/images/lake-sunset-small.jpg)
+      ![](assets/images/horses-posing.jpg)
+      ![](assets/images/lake-sunset-small.jpg)
 
 ## Features
 
@@ -135,14 +148,14 @@ Repository link: https://github.com/01anto/antos-photos
     - A customised 404 page that allows the user to navigate back to website.
     - A shop style page to allow the user to purchase photos/prints or even upload their own photographs to be edited and customised by the company.
 
-## Languages Used:
+## Languages Used
 
 - Languages used for this website:
 
     - HTML
     - CSS
 
-## Frameworks/Libraries used:
+## Frameworks and Libraries used
 
 - Frameworks/Libraries used for this website:
 
