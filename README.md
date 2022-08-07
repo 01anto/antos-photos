@@ -55,6 +55,7 @@ Repository link: https://github.com/01anto/antos-photos
 - Media
     - All images used in this website are owned by the author.
 - Acknowledgements
+    - I would like to thank my mentor Spencer Barriball for his help and advice throughout this project. 
 
 
 
