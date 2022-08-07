@@ -141,7 +141,7 @@ Repository link: https://github.com/01anto/antos-photos
     - [TOC Generator](http://ecotrust-canada.github.io/markdown-toc/)
       - The Readme table of contents was created using the TOC Generator.
    
-## CreditS
+## Credits
 
 - Contents
     - [CI Form Dump](https://formdump.codeinstitute.net/)
@@ -153,7 +153,7 @@ Repository link: https://github.com/01anto/antos-photos
 
 - Acknowledgements
 
-    - I would like to thank my mentor Spencer Barriball for his help and advice throughout this project. 
+    - I would like to thank my mentor Spencer Barriball for all his help and advice throughout this project.
 
 
 
