@@ -13,7 +13,27 @@ Repository link: https://github.com/01anto/antos-photos
 
 ## Table of Contents
 ## Objectives, Goals, Purpose etc
-## User Requirements, User Stories
+
+## Owner/User Requirements
+
+  - Owner Stories
+
+    - As an owner I want:
+
+      - To get the company known.
+      - To Increase our sales.
+      - To show our work.
+      - Increase our social media presence.
+
+  - User Stories
+
+    - As a user I want:
+
+      - To know what the website is about the moment I see the website.
+      - An easy to navigate website, no matter what device I use to access it.
+      - To quickly navigate to what areas interest me with minimum load times.
+      - To see examples of the photographers previous work.
+      - A quick and easy way to get in contact.
 
 ## Design
 
