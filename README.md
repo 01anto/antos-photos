@@ -66,7 +66,7 @@
 # Features
 
   ## NAVIGATION LINKS/HEADER
-
+  ![](readme-extras/nav-bar.jpg)
    - The navigation menu is located at the top of the page inside the header.
    - The Anto's Photos logo on the top left refreshes the website when clicked.
    - The other links are located to the top right (HOME, ABOUT, GALLERY and CONTACT US) and when
@@ -75,7 +75,7 @@
      the other links will display in a column below the logo.
 
   ## HOME
-
+  ![](readme-extras/home.jpg)
    - The Home section contains the Sales Pitch. It quickly summarises for the user what the website
      is about and what services are provided. For customers in a hurry, a book now button is 
      conveniently
@@ -83,24 +83,24 @@
      gallery sections.
 
   ## ABOUT
-
+  ![](readme-extras/about.jpg)
    - The About section builds on what was said in the home section. It provides the user with an
      insight to the competency and character of the people that they are thinking of hiring. It
      emphasises to the user that these are people that know what they are doing and will do an
      amazing job.
 
   ## GALLERY
-
+  ![](readme-extras/gallery.jpg)
    - The Gallery section presents three images to the user. These images give the user an idea
      of the photographers style and the type of photographs that they can aspire to have.
 
   ## CONTACT US
-
+  ![](readme-extras/contact.jpg)
    - The Contact Us section contains a form to allow the user to get in contact with the 
      company.
 
   ## SOCIAL LINKS/FOOTER
-  
+  ![](readme-extras/footer.jpg)
    - Three social links to Facebook, Youtube and Instagram are provided in the website footer.
      The footer also contains Copyright information.
 
