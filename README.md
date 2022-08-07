@@ -57,10 +57,10 @@ Repository link: https://github.com/01anto/antos-photos
     - Jura Font
 
   - Images
-    - ![](assets/images/forest-walk.jpg)
-    - ![](assets/images/cat-chilling.jpg)
-      ![](assets/images/horses-posing.jpg)
-      ![](assets/images/lake-sunset-small.jpg)
+    - ![Forest Walk](assets/images/forest-walk.jpg)
+    - ![Cat Chilling](assets/images/cat-chilling.jpg)
+    - ![Horses Posing](assets/images/horses-posing.jpg)
+    - ![Lake Sunset](assets/images/lake-sunset-small.jpg)
 
 ## Features
 
