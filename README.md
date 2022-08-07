@@ -77,11 +77,13 @@
    - The Links to the right change to an orange color and are underlined white when the mouse hovers over them.
   ## HOME
   ![](readme-extras/home.jpg)
+  ![](readme-extras/home-hover.jpg)
    - The Home section contains the Sales Pitch. It quickly summarises for the user what the website
      is about and what services are provided. For customers in a hurry, a book now button is 
      conveniently
      provided that will bring them straight to the contact us section, bypassing the about and 
      gallery sections.
+   - The background in the book now link changes to an orange color when the mouse hovers over it.
 
   ## ABOUT
   ![](readme-extras/about.jpg)
