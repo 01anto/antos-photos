@@ -11,7 +11,7 @@ Repository link: https://github.com/01anto/antos-photos
 
 ![Antos Photos techsini mockup](readme-extras/techsini-antosphotos-mockup.jpg)
 
-## Table of contents
+## Table of Contents
 ## Objectives, Goals, Purpose etc
 ## User Requirements, User Stories
 
@@ -75,7 +75,7 @@ Repository link: https://github.com/01anto/antos-photos
 
       - Once the website went live it was run and tested on different browsers and performs as expected.
 
-  - This website conforms to the following:
+  - Validator Testing:
 
     - W3C HTML Validator - Passed
     - W3C CSS Jigsaw Validator - Passed
@@ -117,7 +117,7 @@ Repository link: https://github.com/01anto/antos-photos
    
 ## Credits
 
-- Content
+- Contents
 
     - The font type used in the website was taken from google fonts.
     - The Icons for the logo and social links were taken from Font Awesome.
