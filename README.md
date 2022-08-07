@@ -100,6 +100,7 @@
      company.
 
   ## SOCIAL LINKS/FOOTER
+  
    - Three social links to Facebook, Youtube and Instagram are provided in the website footer.
      The footer also contains Copyright information.
 
@@ -114,100 +115,96 @@
 
   ## Desktop testing
 
-  - Large Monitor and TV
+ - Large Monitor and TV
 
-    - The website has been tested with chrome dev tools for larger screens and it is
-      responsive.
-    - Once the website went live I accessed the website using a larger monitor and TV and
-      ensured that it performed as expected.
+   - The website has been tested with chrome dev tools for larger screens and it is
+     responsive.
+   - Once the website went live I accessed the website using a larger monitor and TV and
+     ensured that it performed as expected.
 
   ## Browser Testing
 
-    - Once the website went live it was run and tested on different browsers and performs
-      as expected.
+   - Once the website went live it was run and tested on different browsers and performs
+     as expected.
 
   ## Validator Testing
 
-    - W3C HTML Validator - Passed
-    - W3C CSS Jigsaw Validator - Passed
-    - Lighthouse Results:
-      ![Lighthouse Results](readme-extras/lighthouse-report-pp1.jpg)
+   - W3C HTML Validator - Passed
+   - W3C CSS Jigsaw Validator - Passed
+   - Lighthouse Results:
+   - ![Lighthouse Results](readme-extras/lighthouse-report-pp1.jpg)
 
 # Bugs
 
   ## Fixed Bugs
 
-    - Upon running the w3c html validator it highlighted some errors due to spacing typos and stray closing tags. Once removed and 
-      retested again the code passed.
-    - Upon running lighthouse it highlighted that my background image was affecting my results. The image was resized and this greatly 
-      increased the overall result.
-    - Upon running lighthouse it highlighted that my navigation tap targets were not sufficiently spaced for small screens. I adjusted
-      the padding and this greatly increased the overall result.
+   - Upon running the w3c html validator it highlighted some errors due to spacing typos and stray closing tags. Once removed and 
+     retested again the code passed.
+   - Upon running lighthouse it highlighted that my background image was affecting my results. The image was resized and this greatly 
+     increased the overall result.
+   - Upon running lighthouse it highlighted that my navigation tap targets were not sufficiently spaced for small screens. I adjusted
+     the padding and this greatly increased the overall result.
   
   ## Unfixed Bugs
 
-    - N/A
+   - N/A
   
 # Deployment
 
  - The website was deployed using GitHub pages:
 
-    - Go to the settings tab in the GitHub repository.
-    - Using the menu on the left click on the pages tab.
-    - In the Branch section use the drop-down menu and select 'main'.
-    - After a few minutes the page provided a link to the live website.
+   - Go to the settings tab in the GitHub repository.
+   - Using the menu on the left click on the pages tab.
+   - In the Branch section use the drop-down menu and select 'main'.
+   - After a few minutes the page provided a link to the live website.
 
 # Future Features
 
-  - A hamburger menu for when the site is accessed with devices that have small screens.
-  - A sticky header so that the navigation menu scrolls with the user.
-  - A button that will redirect the user back to the top of the page after scrolling to the
-    bottom.
-  - A separate page for the gallery, that separates the photos by category, with each of 
-    these having their own category page.
-  - A customised thank you page for when a user submits the form.
-  - A customised 404 page that allows the user to navigate back to website.
-  - A shop style page to allow the user to purchase photos/prints or even upload their 
-    own photographs to be edited and customised by the company.
+   - A hamburger menu for when the site is accessed with devices that have small screens.
+   - A sticky header so that the navigation menu scrolls with the user.
+   - A button that will redirect the user back to the top of the page after scrolling to the
+     bottom.
+   - A separate page for the gallery, that separates the photos by category, with each of 
+     these having their own category page.
+   - A customised thank you page for when a user submits the form.
+   - A customised 404 page that allows the user to navigate back to website.
+   - A shop style page to allow the user to purchase photos/prints or even upload their 
+     own photographs to be edited and customised by the company.
 
 # Languages Used
 
-  - HTML
-  - CSS
+   - HTML
+   - CSS
 
 # Frameworks and Libraries used
 
    - [Google Fonts](https://developers.google.com/fonts/)
-      - The font type used in the website was taken from google fonts.
+    - The font type used in the website was taken from google fonts.
 
    - [Font Awesome](https://fontawesome.com/)
-      - The Icons for the logo and social links were taken from Font Awesome.
+    - The Icons for the logo and social links were taken from Font Awesome.
     
    - [Techsini](https://techsini.com/multi-mockup/index.php)
-      - The mockup image for the readme was created using Techsini.
+    - The mockup image for the readme was created using Techsini.
 
    - [Coolors](https://coolors.co/)
-      - The colours I decided to use in the website were chosen from Coolors.
+    - The colours I decided to use in the website were chosen from Coolors.
     
    - [TOC Generator](http://ecotrust-canada.github.io/markdown-toc/)
-      - The Readme table of contents was created using the TOC Generator.
+    - The Readme table of contents was created using the TOC Generator.
    
 # Credits
 
   ## Contents
 
-  [CI Form Dump](https://formdump.codeinstitute.net/)
-  - The form information is being sent to Code Institutes form dump.
+   - [CI Form Dump](https://formdump.codeinstitute.net/)
+    - The form information is being sent to Code Institutes form dump.
 
   ## Media
 
-  - All images used in this website are owned by the author.
+   - All images used in this website are owned by the author.
 
   ## Acknowledgements
 
-  - I would like to thank my mentor Spencer Barriball for all his help and advice throughout
-    this project.
-
-
-
-
+   - I would like to thank my mentor Spencer Barriball for all his help and advice throughout
+     this project.
