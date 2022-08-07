@@ -1,11 +1,14 @@
 # Anto's Photos
+
 ## Introduction:
 Welcome to Anto's Photos, a website built to promote a fictional photography business
 
 Live site link: https://01anto.github.io/antos-photos/
 
 Repository link: https://github.com/01anto/antos-photos
+
 ![Antos Photos techsini mockup](readme-extras/techsini-antosphotos-mockup.jpg)
+
 ## Table of contents
 ## Objectives, Goals, Purpose etc
 ## User Requirements, User Stories
@@ -47,6 +50,16 @@ Repository link: https://github.com/01anto/antos-photos
     - Using the menu on the left click on the pages tab.
     - In the Branch section use the drop-down menu and select 'main'.
     - After a few minutes the page provided a link to the live website.
+
+## Future Features
+ - Future features that I believe could bring value to this website include:
+    - A hamburger menu for when the site is accessed with devices that have small screens.
+    - A sticky header so that the navigation menu scrolls with the user.
+    - A button that will redirect the user back to the top of the page after scrolling to the bottom.
+    - A separate page for the gallery, that separates the photos by category, with each of these having their own category page.
+    - A customised thank you page for when a user submits the form.
+    - A customised 404 page that allows the user to navigate back to website.
+    - A shop style page to allow the user to purchase photos/prints or even upload their own photographs to be edited and customised by the company.
    
 ## Credits
 - Content
