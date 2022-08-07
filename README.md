@@ -1,7 +1,9 @@
 # Anto's Photos
 
 ## Introduction:
-Welcome to Anto's Photos, a website built to promote a fictional photography business
+Welcome to Anto's Photos, A mobile first website built to promote a fictional photography business.
+It is targeted at people looking to hire a photographer.
+It will be useful to people looking to hire a photographer quickly and easily.
 
 Live site link: https://01anto.github.io/antos-photos/
 
