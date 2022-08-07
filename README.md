@@ -33,6 +33,7 @@ Repository link: https://github.com/01anto/antos-photos
     - W3C HTML Validator - Passed
     - W3C CSS Jigsaw Validator - Passed
     - Lighthouse Results:
+![Lighthouse Results](readme-extras/lighthouse-report-pp1.jpg)
 ## Bugs
   - Fixed Bugs:
      - Upon running the w3c html validator it highlighted some errors due to spacing typos and stray closing tags. Once removed and retested again the code passed.
