@@ -1,6 +1,6 @@
 # Anto's Photos
 
-## Introduction
+# Introduction
 
  Welcome to Anto's Photos, A responsive, mobile first website built to promote a fictional photography business.
  It is targeted at people looking to hire a photographer.
@@ -12,7 +12,7 @@
 
  ![Antos Photos techsini mockup](readme-extras/techsini-antosphotos-mockup.jpg)
 
-## Table of contents
+# Table of contents
 * [Introduction](#introduction)
 * [Owner and User Requirements](#owner-and-user-requirements)
 * [Design](#design)
@@ -25,9 +25,9 @@
 * [Frameworks and Libraries used](#frameworks-and-libraries-used)
 * [Credits](#credits)
 
-## Owner and User Requirements
+# Owner and User Requirements
 
-  ### Owner Stories
+  ## Owner Stories
 
     - As an owner I want:
 
@@ -36,7 +36,7 @@
       - To show our work.
       - Increase our social media presence.
 
-  ### User Stories
+  ## User Stories
 
     - As a user I want:
 
@@ -46,26 +46,26 @@
       - To see examples of the photographers previous work.
       - A quick and easy way to get in contact.
 
-## Design
+# Design
 
-  ### Wireframe
+  ## Wireframe
    [wireframe](readme-extras/wireframe.pdf)
 
-  ### Color Scheme
+  ## Color Scheme
    [Color Scheme](readme-extras/coolors-pp1.pdf)
 
-  ### Fonts
+  ## Fonts
   ![Jura Font](readme-extras/jura-font.jpg)
 
-  ### Images
+  ## Images
   ![Forest Walk](assets/images/forest-walk.jpg)
   ![Cat Chilling](assets/images/cat-chilling.jpg)
   ![Horses Posing](assets/images/horses-posing.jpg)
   ![Lake Sunset](assets/images/lake-sunset-small.jpg)
 
-## Features
+# Features
 
-  ### NAVIGATION LINKS/HEADER:
+  ## NAVIGATION LINKS/HEADER:
 
     - The navigation menu is located at the top of the page inside the header.
     - The Anto's Photos logo on the top left refreshes the website when clicked.
@@ -74,7 +74,7 @@
     - *Note: On smaller screens the Logo will be located and centered at the top of the screen and
       the other links will display in a column below the logo.
 
-  ### HOME:
+  ## HOME:
 
     - The Home section contains the Sales Pitch. It quickly summarises for the user what the website
       is about and what services are provided. For customers in a hurry, a book now button is 
@@ -82,37 +82,37 @@
       provided that will bring them straight to the contact us section, bypassing the about and 
       gallery sections.
 
-  ### ABOUT:
+  ## ABOUT:
 
     - The About section builds on what was said in the home section. It provides the user with an
       insight to the competency and character of the people that they are thinking of hiring. It
       emphasises to the user that these are people that know what they are doing and will do an
       amazing job.
 
-  ### GALLERY:
+  ## GALLERY:
 
     - The Gallery section presents three images to the user. These images give the user an idea
       of the photographers style and the type of photographs that they can aspire to have.
 
-  ### CONTACT US:
+  ## CONTACT US:
 
     - The Contact Us section contains a form to allow the user to get in contact with the 
       company.
 
-  ### SOCIAL LINKS/FOOTER:
+  ## SOCIAL LINKS/FOOTER:
     - Three social links to Facebook, Youtube and Instagram are provided in the website footer.
       The footer also contains Copyright information.
 
-## Testing
+# Testing
 
-  ### Mobile testing:
+  ## Mobile testing:
 
     - The website was built from the start with mobile first design. It has been tested with
       chrome dev tools on smaller screens and it is responsive.
     - Once the website went live I accessed the website through various phones and ensured
       that it performed as expected.
 
-  ### Desktop testing:
+  ## Desktop testing:
 
     - Large Monitor and TV
 
@@ -121,21 +121,21 @@
       - Once the website went live I accessed the website using a larger monitor and TV and
         ensured that it performed as expected.
 
-  ### Browser Testing
+  ## Browser Testing
 
       - Once the website went live it was run and tested on different browsers and performs
-       as expected.
+        as expected.
 
-  ### Validator Testing:
+  ## Validator Testing:
 
     - W3C HTML Validator - Passed
     - W3C CSS Jigsaw Validator - Passed
     - Lighthouse Results:
   ![Lighthouse Results](readme-extras/lighthouse-report-pp1.jpg)
 
-## Bugs
+# Bugs
 
-  ### Fixed Bugs:
+  ## Fixed Bugs:
 
      - Upon running the w3c html validator it highlighted some errors due to spacing typos and
        stray closing tags. Once removed and retested again the code passed.
@@ -145,11 +145,11 @@
        sufficiently spaced for small screens. I adjusted the padding and this greatly increased
        the overall result.
 
-  ### Unfixed Bugs:
+  ## Unfixed Bugs:
 
      - N/A
 
-## Deployment
+# Deployment
 
  - The website was deployed using GitHub pages:
 
@@ -158,7 +158,7 @@
     - In the Branch section use the drop-down menu and select 'main'.
     - After a few minutes the page provided a link to the live website.
 
-## Future Features
+# Future Features
 
     - A hamburger menu for when the site is accessed with devices that have small screens.
     - A sticky header so that the navigation menu scrolls with the user.
@@ -171,12 +171,12 @@
     - A shop style page to allow the user to purchase photos/prints or even upload their 
       own photographs to be edited and customised by the company.
 
-## Languages Used
+# Languages Used
 
     - HTML
     - CSS
 
-## Frameworks and Libraries used
+# Frameworks and Libraries used
 
     - [Google Fonts](https://developers.google.com/fonts/)
       - The font type used in the website was taken from google fonts.
@@ -193,18 +193,18 @@
     - [TOC Generator](http://ecotrust-canada.github.io/markdown-toc/)
       - The Readme table of contents was created using the TOC Generator.
    
-## Credits
+# Credits
 
-  ### Contents
+  ## Contents
 
   [CI Form Dump](https://formdump.codeinstitute.net/)
   - The form information is being sent to Code Institutes form dump.
 
-  ### Media
+  ## Media
 
   - All images used in this website are owned by the author.
 
-  ### Acknowledgements
+  ## Acknowledgements
 
   - I would like to thank my mentor Spencer Barriball for all his help and advice throughout
     this project.
