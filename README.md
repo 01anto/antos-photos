@@ -1,7 +1,7 @@
 # Anto's Photos
 
 ## Introduction:
-Welcome to Anto's Photos, A mobile first website built to promote a fictional photography business.
+Welcome to Anto's Photos, A responsive, mobile first website built to promote a fictional photography business.
 It is targeted at people looking to hire a photographer.
 It will be useful to people looking to hire a photographer quickly and easily.
 
@@ -58,6 +58,22 @@ Repository link: https://github.com/01anto/antos-photos
     - Three social links to Facebook, Youtube and Instagram are provided in the website footer. The footer also contains Copyright information.
 
 ## Testing
+
+  - Mobile testing:
+
+    - The website was built from the start with mobile first design. It has been tested with chrome dev tools on smaller screens and it is responsive.
+    - Once the website went live I accessed the website through various phones and ensured that it performed as expected.
+
+  - Desktop testing:
+
+    - Large Monitor and TV
+
+      - The website has been tested with chrome dev tools for larger screens and it is responsive.
+      - Once the website went live I accessed the website using a larger monitor and TV and ensured that it performed as expected.
+
+    - Various Browsers
+
+      - Once the website went live it was run and tested on different browsers and performs as expected.
 
   - This website conforms to the following:
 
