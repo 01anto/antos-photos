@@ -189,6 +189,12 @@
 
 # Frameworks and Libraries used
 
+   - [Gitpod IDE](https://www.gitpod.io/)
+    - All code for this website was created using Gitpod.
+
+   - [GitHub](https://github.com/)
+    - All code for this website was added, commited, pushed to and deployed using github.
+
    - [Google Fonts](https://developers.google.com/fonts/)
     - The font type used in the website was taken from google fonts.
 
