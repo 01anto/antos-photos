@@ -67,12 +67,13 @@
 
   ## NAVIGATION LINKS/HEADER
   ![](readme-extras/nav-bar.jpg)
-  ![](readme-extras/nav-hover.jpg)
+  ![](readme-extras/nav-hover.jpg)<br>
+  ![](readme-extras/home-mobile.jpg)
    - The navigation menu is located at the top of the page inside the header.
    - The Anto's Photos logo on the top left refreshes the website when clicked.
    - The other links are located to the top right (HOME, ABOUT, GALLERY and CONTACT US) and when
      clicked bring the user to the relevant page section.
-   - *Note: On smaller screens the Logo will be located and centered at the top of the screen and
+   - On smaller screens the Logo will be located and centered at the top of the screen and
      the other links will display in a column below the logo.
    - The Links to the right change to an orange color and are underlined white when the mouse hovers over them.
   ## HOME
