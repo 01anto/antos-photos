@@ -95,8 +95,10 @@
 
   ## GALLERY
   ![](readme-extras/gallery.jpg)
+  ![](readme-extras/gallery-mobile.jpg)
    - The Gallery section presents three images to the user. These images give the user an idea
      of the photographers style and the type of photographs that they can aspire to have.
+   - On smaller screens the images will appear vertically.
 
   ## CONTACT US
   ![](readme-extras/contact.jpg)
