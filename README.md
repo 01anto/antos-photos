@@ -73,9 +73,9 @@
    - The Anto's Photos logo on the top left refreshes the website when clicked.
    - The other links are located to the top right (HOME, ABOUT, GALLERY and CONTACT US) and when
      clicked bring the user to the relevant page section.
+   - The Links to the right change to an orange color and are underlined white when the mouse hovers over them.
    - On smaller screens the Logo will be located and centered at the top of the screen and
      the other links will display in a column below the logo.
-   - The Links to the right change to an orange color and are underlined white when the mouse hovers over them.
   ## HOME
   ![](readme-extras/home.jpg)
   ![](readme-extras/home-hover.jpg)
