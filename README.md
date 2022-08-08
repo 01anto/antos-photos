@@ -76,6 +76,7 @@
    - The Links to the right change to an orange color and are underlined white when the mouse hovers over them.
    - On smaller screens the Logo will be located and centered at the top of the screen and
      the other links will display in a column below the logo.
+     
   ## HOME
   ![](readme-extras/home.jpg)
   ![](readme-extras/home-hover.jpg)
@@ -102,10 +103,12 @@
 
   ## CONTACT US
   ![](readme-extras/contact.jpg)
-  ![](readme-extras/contact-hover.jpg)
+  ![](readme-extras/contact-hover.jpg)<br>
+  ![](readme-extras/form-dump-response.jpg)
    - The Contact Us section contains a form to allow the user to get in contact with the 
      company.
    - The background in the submit changes to an orange color when the mouse hovers over it.
+   - The submitted information is sent to Code Institutes Form Dump.
 
   ## SOCIAL LINKS/FOOTER
   ![](readme-extras/footer.jpg)
