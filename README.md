@@ -55,7 +55,7 @@
    [Color Scheme](readme-extras/coolors-pp1.pdf)
 
   ## Fonts
-  ![Jura Font](readme-extras/jura-font.jpg)
+  ![Jura Font](readme-extras/jura-readme.jpg)
 
   ## Images
   ![Forest Walk](readme-extras/cat-readme.jpg)
