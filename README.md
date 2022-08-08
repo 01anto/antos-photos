@@ -8,8 +8,6 @@
 
  Live site link: https://01anto.github.io/antos-photos/
 
- Repository link: https://github.com/01anto/antos-photos
-
  ![Antos Photos techsini mockup](readme-extras/techsini-antosphotos-mockup.jpg)
 
 # Table of contents
