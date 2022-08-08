@@ -49,10 +49,10 @@
 # Design
 
   ## Wireframe
-   [wireframe](readme-extras/wireframe.pdf)
+   [wireframe](readme-extras/wireframe.pdf) - Click the link for option to download wireframe.
 
   ## Color Scheme
-   [Color Scheme](readme-extras/coolors-pp1.pdf)
+   [Color Scheme](readme-extras/coolors-pp1.pdf) - Click the link for option to download Color Scheme
 
   ## Fonts
   ![Jura Font](readme-extras/jura-readme.jpg)
