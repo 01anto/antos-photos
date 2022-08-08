@@ -58,10 +58,10 @@
   ![Jura Font](readme-extras/jura-font.jpg)
 
   ## Images
-  ![Forest Walk](assets/images/forest-walk.jpg)
-  ![Cat Chilling](assets/images/cat-chilling.jpg)
-  ![Horses Posing](assets/images/horses-posing.jpg)
-  ![Lake Sunset](assets/images/lake-sunset-small.jpg)
+  ![Forest Walk](readme-extras/cat-readme.jpg)
+  ![Cat Chilling](readme-extras/forest-readme.jpg)
+  ![Horses Posing](readme-extras/horses-readme.jpg)
+  ![Lake Sunset](readme-extras/lake-readme.jpg)
 
 # Features
 
